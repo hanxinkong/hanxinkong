@@ -9,12 +9,12 @@
 
 - 👨 职业：Python 采集工程师  | Python后端开发工程师
 - 🌱 热爱分享，善于发现，善于思考，善于整理，知识讲解通俗易懂
-- :vulcan_salute: 持续关注前沿采集技术，不断精进不断学习
 - :writing_hand: 了解一些前端相关技术栈，热爱开源文化，工作学习之余混迹开源社区
-- 🔭 计划：
+- :vulcan_salute: 平时爱鼓捣开发板：[树莓派4B(智能家居,NAS)]() | [Esp32(wifi杀手)]()| [51单片机]()
+- 🔭 计划：成为全栈开发工程师
 - 📫 联系我： [Email：xinkonghan@gmail.com](mailto:hanxinkong<xinkonghan@gmail.com>) |  [Wechat：hanxinkong_9527]() 
 
-也许你需要：
+也许您需要：
 
 - 🏡 开源作品：<a href="https://github.com/hanxinkong/easy-spider-tool" target="_blank">爬虫开发工具库</a> | <a href="https://github.com/hanxinkong/easy-clash-tool" target="_blank">clash工具库</a> | <a href="https://github.com/hanxinkong/easy-excel-tool" target="_blank">Excel工具库</a> | <a href="https://github.com/hanxinkong/easy-twitter-crawler" target="_blank">推特(Twitter)全平台采集程序</a> | <a href="https://github.com/hanxinkong/easy-twitter-publisher" target="_blank">推特(Twitter)发帖回帖程序</a> | <a href="https://github.com/hanxinkong/python-medusa" target="_blank">闻名的爆破工具medusa的python库</a>
 - ⭐️ 干货分享： <a href="" target="_blank">公众号『 E宝阁 』</a> | <a href="" target="_blank">B站 韩馨空</a> | [抖音]() | [皮皮虾]() | [小红书]() | [知乎]() | [YouTube]()
